@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'encuentro_v1'
+    'rest_framework',
+    'encuentro_v1',
 ]
 
 MIDDLEWARE = [
